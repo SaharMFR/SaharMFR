@@ -28,6 +28,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -36,6 +37,7 @@
 </p>
 
 ---
+-->
 
 ## 📫 Connect with Me
 
